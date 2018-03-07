@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>After</key>
+			<string>copy-result</string>
+			<key>Image File</key>
+			<string>quotemark.png</string>
+			<key>Shell Script File</key>
+			<string>quotemark.sh</string>
+			<key>Title</key>
+			<string>QuoteMark</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Put quotation marks to each lines.</string>
+	<key>Extension Identifier</key>
+	<string>io.nekonok.popclip.quotemark</string>
+	<key>Extension Name</key>
+	<string>QuoteMark</string>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>
